@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Abdul-Fattah Abdul-Kareem<br><br>A passionate full-stack engineer focused on web and mobile development using JavaScript, TypeScript, Go, and Flutter. From crafting seamless user experiences to securing backend systems, I love turning ideas into scalable, impactful products.<br><br>🌱 I’m currently learning advanced cloud and cybersecurity architectures<br>🤝 I’m open to collaborating on JavaScript, TypeScript, Go, or Flutter projects<br>💬 Ask me about web security, AI automation, and scalable app design<br>📫 Reach me at adeoyin2828@gmail.com<br><br><br>⚡ Fun fact: Outside coding, I love poetry, Taekwondo, and exploring new tech ideas
+Hi 👋, I'm Abdul-Fattah Abdul-Kareem<br><br>A passionate full-stack engineer focused on web and mobile development using JavaScript, TypeScript, Go, and Flutter. From crafting seamless user experiences to securing backend systems, I love turning ideas into scalable, impactful products.<br><br>🌱 I’m currently learning advanced cloud and cybersecurity architectures<br>🤝 I’m open to collaborating on JavaScript, TypeScript, Go, or Flutter projects<br>💬 Ask me about web security, AI automation, and scalable app design<br>📫 Reach me at adeoyin2828@gmail.com<br><br><br>⚡ Fun fact: Outside coding, Taekwondo, and exploring new tech ideas
 
 
 ## 🌐 Socials:
